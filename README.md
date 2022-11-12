@@ -11,6 +11,8 @@ Currently there is limited support for select Azure and AWS resources.
 
 I would ❤️ if you contribute in any way you would like to since I am currently the only one working on the project and it is quite time consuming. 
 
+You can also join the community on slack: https://cloudcostify.slack.com.
+
 The code is currently being prepared to be migrated to the repo.
 Set a watch on the repo to get notified when this has been completed. 
 
