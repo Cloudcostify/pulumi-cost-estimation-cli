@@ -8,4 +8,5 @@ Currently there is limited support for select Azure and AWS resources.
 
 You are welcome to contribute in any way you would like to.
 
+The code is currently being prepared to be migrated to the repo.
 
